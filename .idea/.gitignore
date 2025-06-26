@@ -1,0 +1,14 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Environment-dependent path to Maven home directory
+/mavenHomeManager.xml
+# IDEA-specific files to ignore
+.idea/workspace.xml
+.idea/artifacts/
+.idea/.name
+.idea/usage.statistics.xml
+.idea/shelf/
+.idea/gradle.xml
+.idea/sonarlint/
+
